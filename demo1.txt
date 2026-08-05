@@ -1,7 +1,8 @@
 <html>
 
 <body>
-<h1> HEllo </h1>
+<h1> HEllo  </h1>
+<h2> Good afternoon</h2>
 </body>
 
 </html>
